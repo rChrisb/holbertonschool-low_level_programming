@@ -1,1 +1,1 @@
-# holbertonschool-low_level_programming
+This is the first project about the language C.

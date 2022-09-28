@@ -1,0 +1,1 @@
+This project is about introducing to C programming, its steps, how to create scripts running C files throuh its different steps.
