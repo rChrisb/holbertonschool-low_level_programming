@@ -4,6 +4,14 @@
 #include <stdio.h>
 #include "main.h"
 
+/**
+ *
+ * Structs, enums and unions defintions
+ * Typedefs
+ * Function prototypes
+ *
+ */
+
 int _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
