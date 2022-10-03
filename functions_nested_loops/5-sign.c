@@ -1,3 +1,8 @@
+#include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
 /**
  * _islower - function checking fir lowercase character
  *
