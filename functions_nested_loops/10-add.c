@@ -12,5 +12,6 @@
 int add(int n, int c)
 {
 	int r = n + c;
+
 	return (r);
 }
