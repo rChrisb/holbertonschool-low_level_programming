@@ -1,13 +1,3 @@
-output: main.o school.o
-	gcc main.o school.o -o output
-
-
-main.o: main.c
-	gcc -c main.c
-
-school.o: school.c m.h
-	gcc -c school.c
-
 all:
 	gcc main.c school.c -o school
 
