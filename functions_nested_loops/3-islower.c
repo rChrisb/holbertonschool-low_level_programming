@@ -5,7 +5,8 @@
 
 /**
  * _islower - function checking fir lowercase character
- * @n: function parameter
+ * @c: function parameter
+ *
  * Description: single letter input
  *
  * Return: 0 (Success) or 1
