@@ -4,11 +4,10 @@
 #include <time.h>
 
 /**
- * main - Entry point
+ * print_alphabet --> prints the alphabet
  *
- * Description: 'the program's description'
+ * Description: 'the program prints the alphabet'
  *
- * Return: Always 0 (Success)
  */
 
 void print_alphabet(void)
