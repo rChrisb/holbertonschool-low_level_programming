@@ -7,7 +7,7 @@
  * print_sign - prints sign of a number
  * @n: function parameter
  *
- * Return: 0 (Success) or 1 or -1:w  
+ * Return: 0 (Success) or 1 or -1
  */
 
 int print_sign(int n)
