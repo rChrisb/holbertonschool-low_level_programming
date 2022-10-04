@@ -4,8 +4,8 @@
 #include <time.h>
 
 /**
- * _islower - function checking fir lowercase character
- *
+ * _isalpha - function checking for lowercase or uppercase character
+ * @c: function parameter
  * Description: single letter input
  *
  * Return: 0 (Success) or 1
