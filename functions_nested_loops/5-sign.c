@@ -4,11 +4,10 @@
 #include <time.h>
 
 /**
- * _islower - function checking fir lowercase character
+ * print_sign - prints sign of a number
+ * @n: function parameter
  *
- * Description: single letter input
- *
- * Return: 0 (Success) or 1
+ * Return: 0 (Success) or 1 or -1:w  
  */
 
 int print_sign(int n)
