@@ -4,19 +4,23 @@
 #include <time.h>
 
 /**
- * more_numbers - print 0-14 numbers
+ * more_numbers - prints 10x 0-14 numbers
  *
  */
 
 void more_numbers(void)
 {
 	int i;
+	int count;
 
-	for (i = 0; i < 15; i++)
+	for (count = 0; count < 11; count++)
 	{
-		if (i > 9)
-			_putchar(i % 10);
-		_putchar(i + '0');
+		for (i = 0; i < 15; i++)
+		{
+			if (i > 9)
+				_putchar((i % 10) + '0');
+			_putchar(i + '0');
+		}
+		_putchar('\n');
 	}
-	_putchar('\n');
 }
