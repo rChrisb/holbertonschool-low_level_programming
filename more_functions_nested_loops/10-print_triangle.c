@@ -21,9 +21,9 @@ void print_triangle(int size)
 	{
 		for (ligne = 0; ligne < size; ligne++)
 		{
-			for (espace = 0; espace < (size - 1 - ligne); espace++)
+			for (espace = 0; espace <= (size - 1 - ligne); espace++)
 				_putchar(' ');
-			for (colonne = 0; colonne < ligne; colonne++)
+			for (colonne = 0; colonne <= ligne; colonne++)
 			{
 				_putchar('#');
 			}
