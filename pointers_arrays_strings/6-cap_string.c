@@ -11,7 +11,7 @@ char *cap_string(char *s)
 {
 	char separ[] = {' ', '\t', '\n', 44, 59, 46, 33, 63, 34, 40, 41, '{', '}'};
 
-	int n = strlen(s);
+	int n = sizeof(separ);
 	int i_sep;
 
 	int index_string = 0;
