@@ -5,7 +5,7 @@
  * @s1: first param
  * @s2: second param
  *
- * Return: 0 or 1
+ * Return: 0, < 0, or > 0
  */
 
 
