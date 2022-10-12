@@ -6,7 +6,7 @@
  * @haystack: 1st param
  * @needle: 2nd param
  *
- * Return : NULL or a pointer to the beginning of the located substring
+ * Return: NULL or a pointer to the beginning of the located substring
  *
  */
 
