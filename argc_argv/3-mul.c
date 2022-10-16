@@ -8,7 +8,6 @@
  * Return: 0
  */
 
-int mul(int x, int y);
 
 int main(int argc, char *argv[])
 {
