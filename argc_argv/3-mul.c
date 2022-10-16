@@ -12,13 +12,9 @@ int mul(int x, int y);
 
 int main(int argc, char *argv[])
 {
-	int i;
+	int i, resul = 1;
 
-	int a = atoi(argv[1]);
-	int b = atoi(argv[2]);
-
-	
-	if (*argv[1] == '\0')
+	if (argc != 3)
 	{
 		printf("%s\n", "Error");
 		return (1);
@@ -26,25 +22,10 @@ int main(int argc, char *argv[])
 	else
 	{
 		for (i = 1; i <= argc - 1; i++)
-		{	mul(a, b);
+		{
+			resul = resul * atoi(argv[i]);
 		}
-		
-		printf("%d\n", mul(a, b));
+		printf("%d\n", resul);
 	}
 	return (0);
-}
-
-
-/**
- * mul - multiplies two integers
- * @x: param
- * @y: param
- *
- * Return: x*y
- */
-int mul(int x, int y)
-{
-	int resul = x * y;
-
-	return (resul);
 }
