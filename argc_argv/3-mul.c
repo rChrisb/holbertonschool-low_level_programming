@@ -17,23 +17,31 @@ int main(int argc, char *argv[])
 	int a = atoi(argv[1]);
 	int b = atoi(argv[2]);
 
-
-	for (i = 1; i <= argc - 1; i++)
+	
+	if (*argv[1] == '\0')
 	{
-		if (argc == 3)
+		printf("%s\n", "Error");
+		return (1);
+	}
+	else
+	{
+		for (i = 1; i <= argc - 1; i++)
 		{	mul(a, b);
 		}
-		else
-		{
-			printf("Error\n");
-			return (1);
-		}
+		
+		printf("%d\n", mul(a, b));
 	}
-	printf("%d\n", mul(a, b));
-
 	return (0);
 }
 
+
+/**
+ * mul - multiplies two integers
+ * @x: param
+ * @y: param
+ *
+ * Return: x*y
+ */
 int mul(int x, int y)
 {
 	int resul = x * y;
