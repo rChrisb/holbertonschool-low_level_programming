@@ -5,7 +5,7 @@
  * @n: 1st
  * @x: 2nd
  *
- *
+ * Return: square of number
  */
 
 int root(int n, int x)
