@@ -18,15 +18,15 @@ int main(int argc, char *argv[])
 		return (0);
 	}
 	for (i = 1; i <= argc - 1; i++)
+	{
+		if (!atoi(argv[i]))
 		{
-			if (!atoi(argv[i]))
-			{
-				printf("%s\n", "Error");
-				return (1);
-			}
-			resul = resul + atoi(argv[i]);
+			printf("%s\n", "Error");
+			return (1);
 		}
-		printf("%d\n", resul);
+		resul = resul + atoi(argv[i]);
+	}
+	printf("%d\n", resul);
 	
 	return (0);
 }
