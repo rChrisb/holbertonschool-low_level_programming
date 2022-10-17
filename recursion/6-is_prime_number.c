@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * root - search the square number
+ * prime - search if n is a prime number
  * @n: 1st
  * @x: 2nd
  *
- * Return: square of number
+ * Return: 0, 1, or prime function iterated
  */
 
 int prime(int n, int x)
@@ -14,7 +14,7 @@ int prime(int n, int x)
 	{
 		return (0);
 	}
-	else if (x >= n / 2 )
+	else if (x >= n / 2)
 	{
 		return (1);
 	}
