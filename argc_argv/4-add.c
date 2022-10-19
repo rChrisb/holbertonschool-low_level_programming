@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
 	{
 		return (0);
 	}
-	
+
 	i = 1;
 
 	while (i < argc)
