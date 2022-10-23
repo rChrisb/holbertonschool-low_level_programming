@@ -16,15 +16,13 @@ char *_strdup(char *str)
 	size_t len = strlen(str) + 1;
 	char *copy = malloc(len);
 
+	if (str == NULL)
+		return (NULL);
+
 	if (copy == NULL)
 		return (NULL);
 
 	memcpy(copy, str, len);
-	if (str == NULL)
-	{
-		printf("failed to allocate memory");
-		return (NULL);
-	}
 
 	return (copy);
 
