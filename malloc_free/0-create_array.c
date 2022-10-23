@@ -22,13 +22,8 @@ char *create_array(unsigned int size, char c)
 		arr[i] = (char) c;
 	}
 
-	if (size == 0)
+	if (size == 0 || arr == NULL)
 		return (NULL);
-	else if (arr == NULL)
-	{
-		printf("NULL");
-		return (NULL);
-	}
 	else
 		return (arr);
 	free(arr);
