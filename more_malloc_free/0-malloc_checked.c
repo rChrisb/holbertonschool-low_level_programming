@@ -6,13 +6,14 @@
  *
  * @b: parameter
  *
- * Return - a pointer to the allocated memory
+ * Return: a pointer to the allocated memory
  *
  */
 
 void *malloc_checked(unsigned int b)
 {
 	void *pointer;
+
 	pointer = malloc(b);
 
 	if (pointer == NULL)
