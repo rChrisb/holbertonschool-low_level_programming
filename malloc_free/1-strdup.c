@@ -21,7 +21,10 @@ char *_strdup(char *str)
 
 	memcpy(copy, str, len);
 	if (str == NULL)
+	{
+		printf("failed to allocate memory");
 		return (NULL);
+	}
 
 	return (copy);
 
