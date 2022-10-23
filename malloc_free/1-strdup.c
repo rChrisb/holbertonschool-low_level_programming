@@ -13,12 +13,15 @@
 
 char *_strdup(char *str)
 {
-	size_t len = strlen(str) + 1;
-	char *copy = malloc(len);
+	size_t len;
+	char *copy;
 
 	if (str == NULL)
 		return (NULL);
 
+	len = strlen(str) + 1;
+	copy = malloc(len);
+	
 	memcpy(copy, str, len);
 
 	if (copy == NULL)
