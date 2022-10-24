@@ -24,5 +24,4 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 	memset(ptr, 0, size);
 
 	return (ptr);
-	free(ptr);
 }
