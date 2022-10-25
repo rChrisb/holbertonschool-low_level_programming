@@ -29,7 +29,7 @@ int *array_range(int min, int max)
 			ptr[i] = ptr[i + 1];
 			ptr[i + 1] = tmp;
 		}
-		ptr[0] = min;
+		ptr[i] = min + i;
 		ptr[(max - min)] = max;
 	}
 
