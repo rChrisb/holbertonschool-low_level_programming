@@ -41,10 +41,9 @@ int **alloc_grid(int width, int height)
 
 	for (i = 0; k < width; k++)
 		ptr[i][k] = 0;
-
 	return (ptr);
 
-	
+
 }
 
 
