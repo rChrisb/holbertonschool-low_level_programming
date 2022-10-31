@@ -24,24 +24,22 @@ dog_t *new_dog(char *name, float age, char *owner)
 	if (new == NULL)
 	{
 		return (NULL);
-		free(new);
 	}
 
 	n = malloc(sizeof(char) * strlen(name));
 	if (n == NULL)
 	{
-		return (NULL);
 		free(n);
 		free(new);
+		return (NULL);
 	}
 
 	o = malloc(sizeof(char) * strlen(owner));
 	if (o == NULL)
 	{
-		return (NULL);
-		free(o);
 		free(n);
 		free(new);
+		return (NULL);
 	}
 
 	new->name = memcpy(n, name, strlen(name) + 1);
