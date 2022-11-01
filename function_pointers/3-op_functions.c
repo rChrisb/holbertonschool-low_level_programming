@@ -17,7 +17,7 @@ int op_add(int a, int b)
  * op_sub - subs 2 int
  * @a: first int
  * @b: second int
- * Return: substraction
+ * Return: substraction between a and b 
  */
 
 int op_sub(int a, int b)
