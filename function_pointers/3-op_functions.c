@@ -1,10 +1,10 @@
-#include "calc.h"
+#include "3-calc.h"
 
 /**
  * op_add - adds 2 int
  * @a: first int
  * @b: second int
- * Return: addition
+ * Return: addition of a and b
  */
 
 int op_add(int a, int b)
