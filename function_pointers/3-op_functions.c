@@ -30,7 +30,7 @@ int op_sub(int a, int b)
  * op_mul - multiplies 2 int
  * @a: first int
  * @b: second int
- * Return: multiplication
+ * Return: multiplication of a by b
  */
 int op_mul(int a, int b)
 {
