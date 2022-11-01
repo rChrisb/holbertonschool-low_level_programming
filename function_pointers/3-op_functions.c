@@ -52,10 +52,10 @@ int op_div(int a, int b)
 
 
 /**
- * op_mod - returns modulo of an int by another
+ * op_mod - returns the remainder of a division between 2 int
  * @a: first int
  * @b:second int
- * Return: modulo of a by b
+ * Return: the remainder of the division of a by b
  */
 
 int op_mod(int a, int b)
