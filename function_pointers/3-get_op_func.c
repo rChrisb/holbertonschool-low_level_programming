@@ -1,9 +1,9 @@
-#include "calc.h"
+#include "3-calc.h"
 
 /**
  * get_op_func - selects the correct function to perform
- * the operation asked by the user
- * @s: operator passed as argument to the program
+ * the operation made by the user
+ * @s: operator passed as an argument to the program
  *
  * Return: a pointer to the function that corresponds to
  * the operator given as a parameter
@@ -22,11 +22,9 @@ int (*get_op_func(char *s))(int, int)
 	int i;
 
 	i = 0;
-	while (opt)
+	while ((ops[i].f != NULL) && (strcmp(ops[i].op, s) != 0))
 	{
-		if (opt[i][0] == s)
-			break;
 		i++;
-	return (opt[i][1]);
 	}
+	return (ops[i].f);
 }
