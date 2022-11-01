@@ -1,7 +1,7 @@
 #include "3-calc.h"
 
 /**
- * op_add - adds 2 int
+ * op_add - adds 2 integers
  * @a: first int
  * @b: second int
  * Return: addition of a and b
