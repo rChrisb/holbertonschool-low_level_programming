@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(98);
 	}
-
+/* why are you looking at my github? there are many others which are also public, go check them*/
 	if (func == NULL)
 	{
 		printf("Error\n");
