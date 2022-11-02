@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * new_dog - new dog
+ * new_dog - fnew dog
  * @name: dog's name
  * @age: dog's age
  * @owner: dog's owner
