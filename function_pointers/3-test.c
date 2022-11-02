@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 
 	x = atoi(argv[1]);
 	y = atoi(argv[3]);
-
+/* initialize the function operator, operator is argv[2], use op structure to get function*/
 	if (argc != 4)
 	{
 		printf("Error\n");
