@@ -37,6 +37,7 @@ int main(int argc, char *argv[])
 		exit(100);
 	}
 
+	printf(/* function of the operation between x and y */);
 	return (0);
 }
 
