@@ -2,7 +2,8 @@
 
 /**
  * main - Entry point
- *
+ * @argc: nb of arguments in execution command
+ * @argv: values of arguments
  * Return: Always 0
  *
  */
@@ -12,14 +13,14 @@ int main(int argc, char *argv[])
 	int x, y, (*func)(int, int);
 
 	x = atoi(argv[1]);
-	y = atoi(argv[3]);
 	func = get_op_func(argv[2]);
 
-	if (argc != 4)
+	if (argc != 4) 
 	{
 		printf("Error\n");
 		exit(98);
 	}
+	y = atoi(argv[3]);
 
 	if (func == NULL)
 	{
@@ -33,7 +34,7 @@ int main(int argc, char *argv[])
 		exit(100);
 	}
 
-	printf("%d\n", func(x, y));	
+	printf("%d\n", func(x, y));
 
 	return (0);
 }
