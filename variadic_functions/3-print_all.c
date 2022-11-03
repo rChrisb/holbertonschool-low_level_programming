@@ -22,7 +22,7 @@ void print_all(const char * const format, ...)
 		nb++;
 	}
 
-	while (format[i] && format[nb])
+	while (format[i])
 	{
 		if (i == nb - 1)
 			separator = "";
