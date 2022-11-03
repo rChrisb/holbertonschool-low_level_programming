@@ -4,6 +4,7 @@
  * main - Entry point
  * @argc: nb of arguments in execution command
  * @argv: values of arguments
+ *
  * Return: Always 0
  *
  */
