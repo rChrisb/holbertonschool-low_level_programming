@@ -17,13 +17,10 @@ void print_all(const char * const format, ...)
 
 	va_start(list, format);
 
-	if (format == NULL)
-		return;
-
-	while (format[nb])
+	while (format != NULL && format[nb])
 	{
 		nb++;
-	}
+i	}
 
 	while (format[i])
 	{
