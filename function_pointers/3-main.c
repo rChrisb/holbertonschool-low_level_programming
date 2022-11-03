@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 	x = atoi(argv[1]);
 	func = get_op_func(argv[2]);
 
-	if (argc != 4) 
+	if (argc != 4)
 	{
 		printf("Error\n");
 		exit(98);
