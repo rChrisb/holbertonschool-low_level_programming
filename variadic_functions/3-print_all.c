@@ -20,7 +20,7 @@ void print_all(const char * const format, ...)
 	while (format != NULL && format[nb])
 	{
 		nb++;
-i	}
+	}
 
 	while (format[i])
 	{
