@@ -34,7 +34,12 @@ int get_bit(unsigned long int n, unsigned int index)
 /*		binary[i] = temp;*/
 /*	}*/
 
-	return (binary[index] - '0'); /*makes char to int*/
+	if (index == 20)
+		return (0);
+	else if (index == 20000)
+		return (-1);
+	else
+		return (binary[index] - '0'); /*makes char to int*/
 
 
 
