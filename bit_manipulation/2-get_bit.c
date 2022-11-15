@@ -36,7 +36,7 @@ int get_bit(unsigned long int n, unsigned int index)
 
 	if (index == 20)
 		return (0);
-	else if (index > size)
+	else if (index > lenght)
 		return (-1);
 	else
 		return (binary[index] - '0'); /*makes char to int*/
