@@ -11,7 +11,7 @@
 int get_bit(unsigned long int n, unsigned int index)
 {
 	char binary[256];
-	int lenght = 0;
+	unsigned int lenght = 0;
 
 	while (n != 0)
 	{
