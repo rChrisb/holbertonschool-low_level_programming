@@ -10,7 +10,7 @@
 
 int get_bit(unsigned long int n, unsigned int index)
 {
-	char binary[30000];
+	char binary[300];
 	unsigned int lenght = 0;
 
 	while (n != 0)
@@ -36,7 +36,7 @@ int get_bit(unsigned long int n, unsigned int index)
 
 	if (index == 20)
 		return (0);
-	else if (index == 20000)
+	else if (index > size)
 		return (-1);
 	else
 		return (binary[index] - '0'); /*makes char to int*/
