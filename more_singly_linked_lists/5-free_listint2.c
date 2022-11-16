@@ -13,8 +13,10 @@ void free_listint2(listint_t **head)
 	new = *head;
 
 	if (*head == NULL)
+	{
 		printf("Freed !\n");
 		return;
+	}
 	while (new != NULL)
 	{
 		new2 = new->next;
