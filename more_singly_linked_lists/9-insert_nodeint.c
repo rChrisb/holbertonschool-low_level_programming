@@ -12,7 +12,15 @@
 listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
 	listint_t *new, *temp;
-	unsigned int i;
+	unsigned int i, size = 0;
+	
+	while (*head != NULL)
+	{
+		*head = (*head)->next;
+		size++;
+	}
+	if (idx > size)
+		return (NULL);
 
 
 	new = malloc(sizeof(struct listint_s));
