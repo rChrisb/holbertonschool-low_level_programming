@@ -9,7 +9,7 @@
  * Return: 0
  */
 
-int main(ac, **av)
+int main(int ac, char **av)
 {
 	int source, dest, in, out;
 	char buf[1024];
@@ -21,17 +21,16 @@ int main(ac, **av)
 	}
 	source = open(av[1], O_RDONLY);
 	dest = open(av[2], O_TRUNC | O_CREAT | O_RDWR, 0664);
-	if (source == NULL)
+	if (source == 0)
 	{
 		dprintf(2, "Error: Can't read from file %s\n", av[1]);
 		exit(98);
 	}
-	if (dest == NULL)
+	if (dest == 0)
 	{
 		dprintf(2, "Error: Can't write to %s\n", av[2]);
 		exit(99);
 	}
-
 	while (1)
 	{
 		in = read(source, buf, 1024);
@@ -47,13 +46,11 @@ int main(ac, **av)
 		dprintf(2, "Error: Can't close fd %d\n", source);
 		exit(100);
 	}
-
 	close(dest);
 	if (close(dest) != 0)
 	{
 		dprintf(2, "Error: Can't close fd %d\n", dest);
 		exit(100);
 	}
-
 	return (0);
 }
