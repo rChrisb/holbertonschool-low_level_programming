@@ -13,21 +13,14 @@ int main(ac, **av)
 {
 	int source, dest, in, out;
 	char buf[1024];
-	
-	source = open(av[1], O_RDONLY);
-	dest = open(av[2], O_TRUNC | O_CREAT | O_RDWR, 0664);
-	
-
-
-
-
-	
 
 	if (ac != 3)
 	{
 		dprintf(2, "Usage: cp file_from file_to\n");
 		exit(97);
 	}
+	source = open(av[1], O_RDONLY);
+	dest = open(av[2], O_TRUNC | O_CREAT | O_RDWR, 0664);
 	if (source == NULL)
 	{
 		dprintf(2, "Error: Can't read from file %s\n", av[1]);
