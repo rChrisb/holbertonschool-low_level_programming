@@ -12,6 +12,7 @@
 int append_text_to_file(const char *filename, char *text_content)
 {
 	FILE *append;
+
 	append = fopen(filename, "a");
 
 	if (filename == 0 || append == NULL)
