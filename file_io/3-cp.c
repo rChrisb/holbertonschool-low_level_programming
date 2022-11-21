@@ -32,15 +32,23 @@ int main(ac, **av)
 		exit(99);
 	}
 
-
-
-	close(fd);
-
+	while (1)
+	{
+		in = read(source, buf, 1024);
+		if (in == -1)
+			break;
+		out = write(dest, buf, in);
+		if (out == -1)
+			break;
+	}
+	close(source);
 	if (close(source) != 0)
 	{
 		dprintf(2, "Error: Can't close fd %d\n", source);
 		exit(100);
 	}
+
+	close(dest);
 	if (close(dest) != 0)
 	{
 		dprintf(2, "Error: Can't close fd %d\n", dest);
