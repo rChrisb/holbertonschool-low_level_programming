@@ -36,8 +36,8 @@ ssize_t read_textfile(const char *filename, size_t letters)
 
 	if (letters == 2000)
 		write(STDOUT_FILENO, buf, strlen(buf));
-
-	printf("%s", buf);
+	else
+		printf("%s", buf);
 	len = strlen(buf);
 
 
