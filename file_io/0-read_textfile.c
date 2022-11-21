@@ -20,14 +20,14 @@ ssize_t read_textfile(const char *filename, size_t letters)
 	if (fd == -1)
 		return (0);
 
-	if (finame == NULL)
+	if (filename == NULL)
 		return (0);
 
 	read(fd, buf, letters);
 	buf[strlen(buf)] = '\0';
 	close(fd);
 
-	printf("%s\n\n(printed chars: %d)", buf, strlen(buf));
+	printf("%s\n\n(printed chars: %ld)", buf, strlen(buf));
 
 	len = strlen(buf);
 
