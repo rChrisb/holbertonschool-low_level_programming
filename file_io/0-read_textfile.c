@@ -27,7 +27,7 @@ ssize_t read_textfile(const char *filename, size_t letters)
 	buf[strlen(buf)] = '\0';
 	close(fd);
 
-	printf("%s\n", buf);
+	printf("%s", buf);
 	len = strlen(buf);
 
 
