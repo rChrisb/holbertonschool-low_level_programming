@@ -39,6 +39,7 @@ int main(ac, **av)
 
 
 
+	close(fd);
 
 	if (close(fd) != 0)
 	{
