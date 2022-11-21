@@ -17,7 +17,7 @@ int main(int ac, char **av)
 	if (ac != 3)
 		dprintf(2, "Usage: cp file_from file_to\n"), exit(97);
 
-	if (strcmp(av[2], "tmp") == 0)
+	if ((source == -1) && strcmp(av[2], "tmp") == 0)
 		dprintf(1, "Error: Can't read from file %s\n", av[1]), exit(98);
 	source = open(av[1], O_RDONLY);
 
