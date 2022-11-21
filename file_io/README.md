@@ -1,1 +1,1 @@
-This directory is about notions on file outpu/input in C
+This directory is about notions on file input/output in C
