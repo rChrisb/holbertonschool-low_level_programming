@@ -19,7 +19,7 @@ int main(int ac, char **av)
 		dprintf(2, "Usage: cp file_from file_to\n");
 		exit(97);
 	}
-	source = open(av[1], O_RDONLY);
+	source = open(av[1], O_RDRW);
 	dest = open(av[2], O_TRUNC | O_CREAT | O_RDWR, 0664);
 	if (source == 0)
 	{
