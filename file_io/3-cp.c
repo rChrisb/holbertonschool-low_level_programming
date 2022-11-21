@@ -36,12 +36,16 @@ int main(ac, **av)
 
 	close(fd);
 
-	if (close(fd) != 0)
+	if (close(source) != 0)
 	{
-		dprintf(2, "Error: Can't close fd %d\n", fd);
+		dprintf(2, "Error: Can't close fd %d\n", source);
 		exit(100);
 	}
-
+	if (close(dest) != 0)
+	{
+		dprintf(2, "Error: Can't close fd %d\n", dest);
+		exit(100);
+	}
 
 	return (0);
 }
