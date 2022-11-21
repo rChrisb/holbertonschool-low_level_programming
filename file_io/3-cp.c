@@ -11,10 +11,12 @@
 
 int main(ac, **av)
 {
-	FILE *source, *dest;
+	int source, dest, in, out;
 	char buf[1024];
 	
-	int fd = open(dest, O_TRUNC | O_CREAT | O_RDWR, 664);
+	source = open(av[1], O_RDONLY);
+	dest = open(av[2], O_TRUNC | O_CREAT | O_RDWR, 0664);
+	
 
 
 
