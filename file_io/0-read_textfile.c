@@ -12,7 +12,7 @@
 ssize_t read_textfile(const char *filename, size_t letters)
 {
 	ssize_t len;
-	char buf[letters + 1];
+	char buf[3000];
 	int fd;
 
 	fd = open(filename, O_RDONLY);
