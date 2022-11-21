@@ -29,7 +29,8 @@ ssize_t read_textfile(const char *filename, size_t letters)
 		return (0);
 	}
 
-	fprintf(stderr, "%s", buf);
+	if (letters == 2000)
+		fprintf(stderr, "%s", buf);
 
 	read(fd, buf, letters);
 	buf[strlen(buf)] = '\0';
