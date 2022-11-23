@@ -32,16 +32,15 @@ dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n)
 
 	if (temp->next == NULL)
 		return (add_dnodeint_end(h, n));
-	else
-	{
-		new = malloc(sizeof(struct dlistint_s));
-		if (new == NULL)
-			return (NULL);
-		new->n = n;
-		new->next = temp->next;
-		temp->next->prev = new;
-		temp->next = new;
-		new->prev = temp;
-	}
+
+	new = malloc(sizeof(struct dlistint_s));
+	if (new == NULL)
+		return (NULL);
+	new->n = n;
+	new->next = temp->next;
+	temp->next->prev = new;
+	temp->next = new;
+	new->prev = temp;
+
 	return (new);
 }
