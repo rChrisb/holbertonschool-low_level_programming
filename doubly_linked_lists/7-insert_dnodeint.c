@@ -2,7 +2,7 @@
 
 /**
  * insert_dnodeint_at_index - inserts a new node at a given position
- * @head: first node
+ * @h: first node
  * @idx: index we want
  * @n: data
  *
