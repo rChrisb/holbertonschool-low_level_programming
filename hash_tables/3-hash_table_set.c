@@ -10,15 +10,17 @@
  * Return: 1 if success, 0 otherwise
  */
 
+hash_node_t *ht_k_v(const char *key, const char *value);
+
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 {
 	unsigned long int index, size;
-	hash_node *another;
+	hash_node_t *node, *another;
 
 	size = ht->size;
 	index = key_index(key, size);
 
-	hash_node_t *node = ht->array[index];
+	node = ht->array[index];
 
 	if (node == NULL)
 	{
@@ -31,7 +33,7 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		if (strcmp(node->key, key) == 0)
 		{
 			free(node->value);
-			entry->value = malloc(stren(value) + 1);
+			node->value = malloc(strlen(value) + 1);
 			strcpy(node->value, value);
 			return (1);
 		}
