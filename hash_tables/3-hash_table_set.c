@@ -42,7 +42,13 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		}
 		node = node->next;
 	}
-	another->next = ht_k_v(key, value);
+
+	another = malloc(sizeof(hash_node_t *));
+	if (another == NULL)
+		return (0);
+	another = ht_k_v(key, value);
+	another->next = ht->array[index];
+	ht->array[index] = another;
 
 	return (1);
 
