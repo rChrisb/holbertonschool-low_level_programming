@@ -57,7 +57,7 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 hash_node_t *ht_k_v(const char *key, const char *value)
 {
 	hash_node_t *node = malloc(sizeof(hash_node_t));
-	
+
 	if (node == NULL)
 		return (NULL);
 	node->key = malloc(strlen(key) + 1);
