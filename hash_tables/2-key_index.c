@@ -9,7 +9,7 @@
  * Return: index/slot of the given key
  */
 
-unsigned long int key_index(const unsigned char *key, unsigned long int size)
+unsigned long int key_index(const char *key, unsigned long int size)
 {
 	unsigned long int alexcro_lafraude = hash_djb2(key) % size;
 
