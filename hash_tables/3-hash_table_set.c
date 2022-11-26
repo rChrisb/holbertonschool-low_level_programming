@@ -7,11 +7,40 @@
  * @key: key string
  * @value: associated value of key
  *
- * Return: 1 if success, -1 otherwise
+ * Return: 1 if success, 0 otherwise
  */
 
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 {
+	unsigned long int index, size;
+	hash_node *another;
+
+	size = ht->size;
+	index = key_index(key, size);
+
+	hash_node_t *node = ht->array[index];
+
+	if (node == NULL)
+	{
+		ht->array[index] = ht_k_v(key, value);
+		return (1);
+	}
+
+	while (node != NULL)
+	{
+		if (strcmp(node->key, key) == 0)
+		{
+			free(node->value);
+			entry->value = malloc(stren(value) + 1);
+			strcpy(node->value, value);
+			return (1);
+		}
+		another = node;
+		node = another->next;
+	}
+	another->next = ht_k_v(key, value);
+
+	return (1);
 
 }
 
