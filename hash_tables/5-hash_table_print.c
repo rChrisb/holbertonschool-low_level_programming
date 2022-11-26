@@ -31,7 +31,7 @@ void hash_table_print(const hash_table_t *ht)
 			node = node->next;
 			x++;
 		}
-		if (table-<array[i + 1] != NULL && x > 0)
+		if (table->array[i + 1] != NULL && x > 0)
 			printf(", ");
 		i++;
 	}
