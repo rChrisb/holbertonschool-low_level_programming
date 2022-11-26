@@ -40,8 +40,7 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 			strcpy(node->value, value);
 			return (1);
 		}
-		another = node;
-		node = another->next;
+		node = node->next;
 	}
 	another->next = ht_k_v(key, value);
 
