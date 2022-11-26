@@ -14,7 +14,7 @@ void hash_table_delete(hash_table_t *ht)
 
 	if (ht == NULL)
 		return;
-	temp = NULL;
+	node = NULL;
 	another = NULL;
 
 	i = 0;
