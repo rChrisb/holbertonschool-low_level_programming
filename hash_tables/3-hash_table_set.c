@@ -48,13 +48,13 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 /**
  * ht_k_v - returns the key-value pair
  *
- * key: key to copy
- * value: value to copy
+ * @key: key to copy
+ * @value: value to copy
  *
  * Return: node containing the key-value
  */
 
-hash_node_t *ht_k_v(const char *key, cont char *value)
+hash_node_t *ht_k_v(const char *key, const char *value)
 {
 	hash_node_t *node = malloc(sizeof(hash_node_t));
 	
