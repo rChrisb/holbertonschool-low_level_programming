@@ -10,7 +10,6 @@
  * Return: 1 if success, 0 otherwise
  */
 
-hash_node_t *ht_k_v(const char *key, const char *value);
 
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 {
@@ -22,6 +21,8 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 
 	node = ht->array[index];
 
+	if (ht == NULL)
+		return (0);
 	if (node == NULL)
 	{
 		ht->array[index] = ht_k_v(key, value);
@@ -34,6 +35,8 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		{
 			free(node->value);
 			node->value = malloc(strlen(value) + 1);
+			if (node->value == NULL)
+				return (0);
 			strcpy(node->value, value);
 			return (1);
 		}
