@@ -16,13 +16,13 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 	unsigned long int index, size;
 	hash_node_t *node, *another;
 
+	if (ht == NULL)
+		return (0);
 	size = ht->size;
 	index = key_index(key, size);
 
 	node = ht->array[index];
 
-	if (ht == NULL)
-		return (0);
 	if (node == NULL)
 	{
 		ht->array[index] = ht_k_v(key, value);
