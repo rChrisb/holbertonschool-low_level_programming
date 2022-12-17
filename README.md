@@ -1,1 +1,1 @@
-This directory contains various projects introducing beginners to the C language.
+This directory contains various projects made in Holberton School and introducing beginners to the C language.
