@@ -18,3 +18,9 @@ Be able to explain:
 - How to print variables using printf
 - What is the ASCII character set
 - What are the purpose of the gcc flags -m32 and -m64
+
+## <p align=center>`Tasks`</p>
+### <p align=center>`0. Positive anything is better than negative nothing`</p>
+### <p align=center>`1. The last digit`</p>
+### <p align=center>`2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game`</p>
+### <p align=center>`3. alphABET`</p>
