@@ -98,5 +98,13 @@ Write a program that prints all the numbers of base 16 in lowercase, followed by
 - You can only use putchar three times in your code
 ---------------------------------------------------------------------------------
 ### <p align=center>`9. Patience, persistence and perspiration make an unbeatable combination for success`</p>
+Write a program that prints all possible combinations of single-digit numbers.
+
+- Numbers must be separated by ,, followed by a space
+- Numbers should be printed in ascending order
+- You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+- All your code should be in the main function
+- You can only use putchar four times maximum in your code
+- You are not allowed to use any variable of type char
 ---------------------------------------------------------------------------------
 ## <p align=right>`Score: 100/100`</p>
