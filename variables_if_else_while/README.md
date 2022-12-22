@@ -25,3 +25,8 @@ Be able to explain:
 ### <p align=center>`2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game`</p>
 ### <p align=center>`3. alphABET`</p>
 ### <p align=center>`4. When I was having that alphabet soup, I never thought that it would pay off`</p>
+### <p align=center>`5. Numbers`</p>
+### <p align=center>`6. Numberz`</p>
+### <p align=center>`7. Smile in the mirror`</p>
+### <p align=center>`8. Hexadecimal`</p>
+### <p align=center>`9. Patience, persistence and perspiration make an unbeatable combination for success`</p>
