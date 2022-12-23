@@ -19,10 +19,18 @@ Requirements:
 
 - name of the executable: school
 - rules: all
-  - The all rule builds your executable
+  - The `all` rule builds your executable
 - variables: none
 -----------------------------------------------
 ### <p align=center>`1. make -f 1-Makefile`</p>
+Requirements:
+
+- name of the executable: school
+- rules: all
+  - The `all` rule builds your executable
+- variables: CC, SRC
+  - CC: the compiler to be used
+  - SRC: the .c files
 -----------------------------------------------
 ### <p align=center>`2. make -f 2-Makefile`</p>
 -----------------------------------------------
