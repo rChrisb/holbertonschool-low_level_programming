@@ -13,10 +13,22 @@ Be able to explain:
 
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. make -f 0-Makefile`</p>
+Create your first Makefile.
+
+Requirements:
+
+- name of the executable: school
+- rules: all
+  - The all rule builds your executable
+- variables: none
+-----------------------------------------------
 ### <p align=center>`1. make -f 1-Makefile`</p>
+-----------------------------------------------
 ### <p align=center>`2. make -f 2-Makefile`</p>
+-----------------------------------------------
 ### <p align=center>`3. make -f 3-Makefile`</p>
+-----------------------------------------------
 ### <p align=center>`4. A complete Makefile`</p>
 
-
+-----------------------------------------------
 ## <p align=right>`Score: 100/100`</p>
