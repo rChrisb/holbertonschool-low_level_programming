@@ -14,15 +14,25 @@ Be able to explain:
 ## <p align=center>`Tasks`</p>
 
 ### <p align=center>`0. isupper`</p>
+----------------------------------------
 ### <p align=center>`1. isdigit`</p>
+----------------------------------------
 ### <p align=center>`2. Collaboration is multiplication`</p>
+----------------------------------------
 ### <p align=center>`3. The numbers speak for themselves`</p>
+----------------------------------------
 ### <p align=center>`4. I believe in numbers and signs`</p>
+----------------------------------------
 ### <p align=center>`5. Numbers constitute the only universal language`</p>
+----------------------------------------
 ### <p align=center>`6. The shortest distance between two points is a straight line`</p>
+----------------------------------------
 ### <p align=center>`7. I feel like I am diagonally parked in a parallel universe`</p>
+----------------------------------------
 ### <p align=center>`8. You are so much sunshine in every square inch`</p>
+----------------------------------------
 ### <p align=center>`9. Fizz-Buzz`</p>
+----------------------------------------
 ### <p align=center>`10. Triangles`</p>
-
+----------------------------------------
 ## <p align=right>`Score: 100/100`</p>
