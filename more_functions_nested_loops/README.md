@@ -25,3 +25,4 @@ Be able to explain:
 ### <p align=center>`9. Fizz-Buzz`</p>
 ### <p align=center>`10. Triangles`</p>
 
+## <p align=right>`Score: 100/100`</p>
