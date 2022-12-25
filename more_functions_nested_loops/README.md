@@ -28,6 +28,9 @@ Write a function that checks for a digit (0 through 9).
 - Returns 0 otherwise
 ----------------------------------------
 ### <p align=center>`2. Collaboration is multiplication`</p>
+Write a function that multiplies two integers.
+
+- Prototype: int mul(int a, int b);
 ----------------------------------------
 ### <p align=center>`3. The numbers speak for themselves`</p>
 ----------------------------------------
