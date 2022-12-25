@@ -21,6 +21,11 @@ Write a function that checks for uppercase character.
 - Returns 0 otherwise
 ----------------------------------------
 ### <p align=center>`1. isdigit`</p>
+Write a function that checks for a digit (0 through 9).
+
+- Prototype: int _isdigit(int c);
+- Returns 1 if c is a digit
+- Returns 0 otherwise
 ----------------------------------------
 ### <p align=center>`2. Collaboration is multiplication`</p>
 ----------------------------------------
