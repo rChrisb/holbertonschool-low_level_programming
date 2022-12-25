@@ -14,6 +14,11 @@ Be able to explain:
 ## <p align=center>`Tasks`</p>
 
 ### <p align=center>`0. isupper`</p>
+Write a function that checks for uppercase character.
+
+Prototype: int _isupper(int c);
+Returns 1 if c is uppercase
+Returns 0 otherwise
 ----------------------------------------
 ### <p align=center>`1. isdigit`</p>
 ----------------------------------------
