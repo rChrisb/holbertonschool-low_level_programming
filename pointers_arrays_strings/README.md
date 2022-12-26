@@ -74,7 +74,7 @@ Write a function that copies the string pointed to by src, including the termina
 
 ----------------------------------------
 
-# <p align=center>C - More pointers, arrays and strings</p>
+# <p align=center>`C - More pointers, arrays and strings`</p>
 
 ## <p align=center>`Tasks`</p>
 
