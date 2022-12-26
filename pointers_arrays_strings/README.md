@@ -71,3 +71,41 @@ Write a function that copies the string pointed to by src, including the termina
 ----------------------------------------
 
 ## <p align=right>`Score: 100/100`</p>
+
+----------------------------------------
+
+# C - More pointers, arrays and strings
+
+## <p align=center>`Tasks`</p>
+
+### <p align=center>`0. strcat`</p>
+----------------------------------------
+### <p align=center>`1. strncat`</p>
+----------------------------------------
+### <p align=center>`2. strncpy`</p>
+----------------------------------------
+### <p align=center>`3. strcmp`</p>
+----------------------------------------
+### <p align=center>`4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy`</p>
+----------------------------------------
+### <p align=center>`5. Always look up`</p>
+----------------------------------------
+### <p align=center>`6. Expect the best. Prepare for the worst. Capitalize on what comes`</p>
+----------------------------------------
+### <p align=center>`7. Mozart composed his music not for the elite, but for everybody`</p>
+----------------------------------------
+## <p align=right>`Score: 100/100`</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
