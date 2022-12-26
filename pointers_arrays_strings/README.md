@@ -41,7 +41,7 @@ Write a function that reverses a string.
 
 Prototype: void rev_string(char *s);
 ----------------------------------------
-### <p align=center>` 6. Half the lies they tell about me aren't true
+### <p align=center>`6. Half the lies they tell about me aren't true
 mandatory
 `</p>
 Write a function that prints every other character of a string, starting with the first character, followed by a new line.
