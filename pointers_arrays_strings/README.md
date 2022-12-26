@@ -69,3 +69,5 @@ Write a function that copies the string pointed to by src, including the termina
 
 - Return value: the pointer to `dest`
 ----------------------------------------
+
+## <p align=right>`Score: 100/100`</p>
