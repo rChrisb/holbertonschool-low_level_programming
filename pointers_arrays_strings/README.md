@@ -151,12 +151,31 @@ Be able to explain:
 * What are multidimensional arrays and how to use them
 * What are the most common C standard library functions to manipulate strings
 
+## <p align=center>`Tasks`</p>
+### <p align=center>`0. memset`</p>
+Write a function that fills memory with a constant byte.
 
-
-
-
-
-
+Prototype: char *_memset(char *s, char b, unsigned int n);
+The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b
+Returns a pointer to the memory area s
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+### <p align=center></p>
+--------------------------------------------
+## <p align=right>`Score: 100/100`</p>
 
 
 
