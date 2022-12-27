@@ -147,9 +147,9 @@ Write a function that encodes a string into 1337.
 ## <p align=center> `Project's obejectives` </p>
 Be able to explain:
 
-What are pointers to pointers and how to use them
-What are multidimensional arrays and how to use them
-What are the most common C standard library functions to manipulate strings
+* What are pointers to pointers and how to use them
+* What are multidimensional arrays and how to use them
+* What are the most common C standard library functions to manipulate strings
 
 
 
