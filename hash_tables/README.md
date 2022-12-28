@@ -44,7 +44,8 @@ Write a function that adds an element to the hash table.
   - key is the key. key can not be an empty string
   - and value is the value associated with the key. value must be duplicated. value can be an empty string
 - Returns: 1 if it succeeded, 0 otherwise
-- In case of collision, add the new node at the beginning of the list- 
+- In case of collision, add the new node at the beginning of the list
+----------------------------------------
 ### <p align=center>`4. >>> ht['betty']` </p>
 Write a function that retrieves a value associated with a key.
 
