@@ -19,6 +19,7 @@ Write a function that creates a hash table.
   - where size is the size of the array
 - Returns a pointer to the newly created hash table
 - If something went wrong, your function should return NULL
+----------------------------------------
 ### <p align=center>`1. djb2` </p>
 Write a hash function implementing the djb2 algorithm.
 
