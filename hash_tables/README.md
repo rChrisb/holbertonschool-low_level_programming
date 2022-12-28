@@ -53,6 +53,7 @@ Write a function that retrieves a value associated with a key.
   - where ht is the hash table you want to look into
   - and key is the key you are looking for
 - Returns the value associated with the element, or NULL if key couldn’t be found
+----------------------------------------
 ### <p align=center>`5. >>> print(ht)` </p>
 Write a function that prints a hash table.
 
