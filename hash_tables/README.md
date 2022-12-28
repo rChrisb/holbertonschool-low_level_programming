@@ -10,3 +10,12 @@ Be able to explain:
 - What is a collision and what are the main ways of dealing with collisions in the context of a hash table
 - What are the advantages and drawbacks of using hash tables
 - What are the most common use cases of hash tables
+
+## <p align=center>`Tasks` </p>
+### <p align=center>`0. >>> ht = {}` </p>
+### <p align=center>`1. djb2` </p>
+### <p align=center>`2. key -> index` </p>
+### <p align=center>`3. >>> ht['betty'] = 'cool'` </p>
+### <p align=center>`4. >>> ht['betty']` </p>
+### <p align=center>`5. >>> print(ht)` </p>
+### <p align=center>`6. >>> del ht` </p>
