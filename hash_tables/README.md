@@ -63,6 +63,7 @@ Write a function that prints a hash table.
   - Order: array, list
 - Format: see example
 - If ht is NULL, don’t print anything
+----------------------------------------
 ### <p align=center>`6. >>> del ht` </p>
 Write a function that deletes a hash table.
 
