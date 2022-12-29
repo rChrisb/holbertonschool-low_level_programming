@@ -60,6 +60,11 @@ Returns: the address of the new node, or NULL if it failed
 if it is not possible to add the new node at index idx, do not add the new node and return NULL
 ----------------------------------------
 ### <p align=center>`8. Delete at index`</p>
+Write a function that deletes the node at index index of a dlistint_t linked list.
+
+Prototype: int delete_dnodeint_at_index(dlistint_t **head, unsigned int index);
+where index is the index of the node that should be deleted. Index starts at 0
+Returns: 1 if it succeeded, -1 if it failed
 ----------------------------------------
 
 
