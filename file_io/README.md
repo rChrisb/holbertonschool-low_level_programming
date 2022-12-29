@@ -41,8 +41,7 @@ if text_content is NULL create an empty file
 ----------------------------------------
 ### <p align=center>`3. cp`</p>
 ----------------------------------------
-### <p align=center>``</p>
-----------------------------------------
+
 
 
 ## <p align=right>`Score: 100/100`</p>
