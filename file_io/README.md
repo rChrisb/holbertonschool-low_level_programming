@@ -13,3 +13,11 @@ Be able to explain:
 - What are file permissions, and how to set them when creating a file with the open system call
 - What is a system call
 - What is the difference between a function and a system call
+
+## <p align=center>`Tasks`</p>
+
+### <p align=center>`0. Tread lightly, she is near`</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
