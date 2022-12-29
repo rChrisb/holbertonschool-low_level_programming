@@ -10,14 +10,23 @@ Be able to explain:
 ## <p align=center>`Tasks`</p>
 
 ### <p align=center>`0. Print list`</p>
+----------------------------------------
 ### <p align=center>`1. List length`</p>
+----------------------------------------
 ### <p align=center>`2. Add node`</p>
+----------------------------------------
 ### <p align=center>`3. Add node at the end`</p>
+----------------------------------------
 ### <p align=center>`4. Free list`</p>
+----------------------------------------
 ### <p align=center>`5. Get node at index`</p>
+----------------------------------------
 ### <p align=center>`6. Sum list`</p>
+----------------------------------------
 ### <p align=center>`7. Insert at index`</p>
+----------------------------------------
 ### <p align=center>`8. Delete at index`</p>
+----------------------------------------
 
 
 ## <p align=right>`Score: 100/100`</p>
