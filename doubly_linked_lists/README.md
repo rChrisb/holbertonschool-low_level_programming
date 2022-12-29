@@ -18,3 +18,6 @@ Be able to explain:
 ### <p align=center>`6. Sum list`</p>
 ### <p align=center>`7. Insert at index`</p>
 ### <p align=center>`8. Delete at index`</p>
+
+
+## <p align=right>`Score: 100/100`</p>
