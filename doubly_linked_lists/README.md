@@ -17,6 +17,9 @@ Return: the number of nodes
 Format: see example
 ----------------------------------------
 ### <p align=center>`1. List length`</p>
+Write a function that returns the number of elements in a linked dlistint_t list.
+
+Prototype: size_t dlistint_len(const dlistint_t *h);
 ----------------------------------------
 ### <p align=center>`2. Add node`</p>
 ----------------------------------------
