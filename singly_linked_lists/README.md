@@ -10,4 +10,4 @@ Be able to explain:
 ## <p align=center>`1. List length`</p>
 ## <p align=center>`2. Add node`</p>
 ## <p align=center>`3. Add node at the end`</p>
-## <p align=center>``</p>
+## <p align=center>`4. Free list`</p>
