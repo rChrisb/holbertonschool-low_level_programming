@@ -4,3 +4,10 @@
 Be able to explain:
 - When and why using linked lists vs arrays
 - How to build and use linked lists
+
+## <p align=center>`Tasks`</p>
+## <p align=center>``</p>
+## <p align=center>``</p>
+## <p align=center>``</p>
+## <p align=center>``</p>
+## <p align=center>``</p>
