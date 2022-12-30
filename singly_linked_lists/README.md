@@ -6,7 +6,7 @@ Be able to explain:
 - How to build and use linked lists
 
 ## <p align=center>`Tasks`</p>
-## <p align=center>``</p>
+## <p align=center>`0. Print list`</p>
 ## <p align=center>``</p>
 ## <p align=center>``</p>
 ## <p align=center>``</p>
