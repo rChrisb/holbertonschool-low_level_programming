@@ -15,7 +15,7 @@ Be able to explain:
 -------------------------------------------------
 ## <p align=center>`2. The best argument against democracy is a five-minute conversation with the average voter`</p>
 -------------------------------------------------
-## <p align=center>``</p>
+## <p align=center>`3. Neither irony nor sarcasm is argument`</p>
 -------------------------------------------------
 ## <p align=center>``</p>
 -------------------------------------------------
