@@ -43,10 +43,17 @@ Prototype: void free_listint2(listint_t **head);
 The function sets the head to NULL
 -------------------------------------------------
 ## <p align=center>`6. Pop`</p>
+Write a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
 
+Prototype: int pop_listint(listint_t **head);
+if the linked list is empty return 0
 -------------------------------------------------
 ## <p align=center>`7. Get node at index`</p>
+Write a function that returns the nth node of a listint_t linked list.
 
+Prototype: listint_t *get_nodeint_at_index(listint_t *head, unsigned int index);
+where index is the index of the node, starting at 0
+if the node does not exist, return NULL
 -------------------------------------------------
 ## <p align=center>`8. Sum list`</p>
 
