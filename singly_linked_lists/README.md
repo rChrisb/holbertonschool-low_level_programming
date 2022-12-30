@@ -1,1 +1,6 @@
-This directory contains notions on singly linked lists in the C language
+![image](https://www.sanfoundry.com/wp-content/uploads/2022/08/singly-linked-list-example.png)
+# <p align=center>`C - Singly linked lists`</p>
+## <p align=center> `Project's obejectives` </p>
+Be able to explain:
+- When and why using linked lists vs arrays
+- How to build and use linked lists
