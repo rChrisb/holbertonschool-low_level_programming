@@ -7,8 +7,7 @@ Be able to explain:
 - How to use doubly linked lists
 - Start to look for the right source of information without too much help
 
-Look for the right source of information without too much help
-How to manipulate bits and use bitwise operators
+
 
 
 ## <p align=center>`Tasks`</p>
