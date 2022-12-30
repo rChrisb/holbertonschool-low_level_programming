@@ -5,3 +5,10 @@ Be able to explain:
 - How to look for the right source of information without too much help
 - How to manipulate bits and use bitwise operators
 
+## <p align=center>`Tasks`</p>
+### <p align=center>`0. Print list`</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
+### <p align=center>``</p>
