@@ -7,8 +7,11 @@ Be able to explain:
 - How to use doubly linked lists
 - Start to look for the right source of information without too much help
 
-## <p align=center>`Tasks`</p>
+Look for the right source of information without too much help
+How to manipulate bits and use bitwise operators
 
+
+## <p align=center>`Tasks`</p>
 ### <p align=center>`0. Print list`</p>
 Write a function that prints all the elements of a dlistint_t list.
 
