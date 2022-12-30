@@ -8,6 +8,6 @@ Be able to explain:
 ## <p align=center>`Tasks`</p>
 ## <p align=center>`0. Print list`</p>
 ## <p align=center>`1. List length`</p>
-## <p align=center>``</p>
+## <p align=center>`2. Add node`</p>
 ## <p align=center>``</p>
 ## <p align=center>``</p>
