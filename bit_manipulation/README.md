@@ -18,11 +18,11 @@ Write a function that converts a binary number to an unsigned int.
 ### <p align=center>`1. 1`</p>
 Write a function that prints the binary representation of a number.
 
-Prototype: void print_binary(unsigned long int n);
-Format: see example
-You are not allowed to use arrays
-You are not allowed to use malloc
-You are not allowed to use the % or / operators
+- Prototype: void print_binary(unsigned long int n);
+- Format: see example
+- You are not allowed to use arrays
+- You are not allowed to use malloc
+- You are not allowed to use the % or / operators
 ----------------------------------------
 ### <p align=center>`2. 10`</p>
 Write a function that returns the value of a bit at a given index.
