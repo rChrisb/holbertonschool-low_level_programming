@@ -15,7 +15,9 @@ Format: see example
 You are allowed to use printf
 -------------------------------------------------
 ## <p align=center>`1. List length`</p>
+Write a function that returns the number of elements in a linked listint_t list.
 
+Prototype: size_t listint_len(const listint_t *h);
 -------------------------------------------------
 ## <p align=center>`2. Add node`</p>
 
