@@ -56,7 +56,10 @@ where index is the index of the node, starting at 0
 if the node does not exist, return NULL
 -------------------------------------------------
 ## <p align=center>`8. Sum list`</p>
+Write a function that returns the sum of all the data (n) of a listint_t linked list.
 
+Prototype: int sum_listint(listint_t *head);
+if the list is empty, return 0
 -------------------------------------------------
 ## <p align=center>`9. Insert`</p>
 
