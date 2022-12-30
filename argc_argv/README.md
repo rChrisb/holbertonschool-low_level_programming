@@ -13,7 +13,7 @@ Be able to explain:
 -------------------------------------------------
 ## <p align=center>`1. Silence is argument carried out by other means`</p>
 -------------------------------------------------
-## <p align=center>``</p>
+## <p align=center>`2. The best argument against democracy is a five-minute conversation with the average voter`</p>
 -------------------------------------------------
 ## <p align=center>``</p>
 -------------------------------------------------
