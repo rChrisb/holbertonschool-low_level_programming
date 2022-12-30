@@ -16,12 +16,18 @@ If str is NULL, print [0] (nil)
 You are allowed to use printf
 -------------------------------------------------
 ## <p align=center>`1. List length`</p>
+Write a function that returns the number of elements in a linked list_t list.
+
+Prototype: size_t list_len(const list_t *h);
 -------------------------------------------------
 ## <p align=center>`2. Add node`</p>
+
 -------------------------------------------------
 ## <p align=center>`3. Add node at the end`</p>
+
 -------------------------------------------------
 ## <p align=center>`4. Free list`</p>
+
 -------------------------------------------------
 
 ## <p align=right>`Score: 100/100`</p>
