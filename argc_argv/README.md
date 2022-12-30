@@ -16,7 +16,9 @@ If you rename the program, it will print the new name, without having to compile
 You should not remove the path before the name of the program
 -------------------------------------------------
 ## <p align=center>`1. Silence is argument carried out by other means`</p>
+Write a program that prints the number of arguments passed into it.
 
+Your program should print a number, followed by a new line
 -------------------------------------------------
 ## <p align=center>`2. The best argument against democracy is a five-minute conversation with the average voter`</p>
 
