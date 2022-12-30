@@ -21,7 +21,10 @@ Write a program that prints the number of arguments passed into it.
 Your program should print a number, followed by a new line
 -------------------------------------------------
 ## <p align=center>`2. The best argument against democracy is a five-minute conversation with the average voter`</p>
+Write a program that prints all arguments it receives.
 
+All arguments should be printed, including the first one
+Only print one argument per line, ending with a new line
 -------------------------------------------------
 ## <p align=center>`3. Neither irony nor sarcasm is argument`</p>
 
