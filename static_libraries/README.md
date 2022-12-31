@@ -6,3 +6,10 @@
 Be able to explain:
 - What is a static library, how does it work, how to create one, and how to use it
 - Basic usage of ar, ranlib, nm
+
+## <p align=center>`Tasks`</p>
+### <p align=center>`0. Print list`</p>
+### <p align=center>`0. Print list`</p>
+### <p align=center>`0. Print list`</p>
+
+## <p align=right>`Score: 100/100`</p>
