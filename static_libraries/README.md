@@ -8,7 +8,7 @@ Be able to explain:
 - Basic usage of ar, ranlib, nm
 
 ## <p align=center>`Tasks`</p>
-### <p align=center>`0. Print list`</p>
+### <p align=center>`0. A library is not a luxury but one of the necessities of life`</p>
 ### <p align=center>`0. Print list`</p>
 ### <p align=center>`0. Print list`</p>
 
