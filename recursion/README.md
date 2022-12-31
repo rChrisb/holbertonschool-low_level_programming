@@ -13,6 +13,9 @@ Be able to explain:
 ## <p align=center>`Tasks`</p>
 
 ### <p align=center>`0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget`</p>
+Write a function that prints a string, followed by a new line.
+
+Prototype: void _puts_recursion(char *s);
 ### <p align=center>`1. Why is it so important to dream? Because, in my dreams we are together
 `</p>
 ### <p align=center>`2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange`</p>
