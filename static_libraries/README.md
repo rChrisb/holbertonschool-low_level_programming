@@ -9,7 +9,11 @@ Be able to explain:
 
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. A library is not a luxury but one of the necessities of life`</p>
-### <p align=center>`0. Print list`</p>
-### <p align=center>`0. Print list`</p>
+
+---------------------------------------------------------------------
+### <p align=center>`1. Without libraries what have we? We have no past and no future`</p>
+
+---------------------------------------------------------------------
+
 
 ## <p align=right>`Score: 100/100`</p>
