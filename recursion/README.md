@@ -27,7 +27,11 @@ Write a function that returns the length of a string.
 Prototype: int _strlen_recursion(char *s);
 -----------------------------------------------------------
 ### <p align=center>`3. You mustn't be afraid to dream a little bigger, darling`</p>
+Write a function that returns the factorial of a given number.
 
+Prototype: int factorial(int n);
+If n is lower than 0, the function should return -1 to indicate an error
+Factorial of 0 is 1
 -----------------------------------------------------------
 ### <p align=center>`4. Once an idea has taken hold of the brain it's almost impossible to eradicate`</p>
 
