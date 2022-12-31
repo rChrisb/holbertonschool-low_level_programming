@@ -1,5 +1,1 @@
-This project allow to explain:
-	What is recursion
-	How to implement recursion
-	In what situations you should implement recursion
-	In what situations you shouldn’t implement recursion
+![image](https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-low_level_programming/219/a88.jpg)
