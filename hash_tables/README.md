@@ -70,4 +70,4 @@ Write a function that deletes a hash table.
 - Prototype: void hash_table_delete(hash_table_t *ht);
   - where ht is the hash table
 ----------------------------------------
-  ## <p align=right>`Score: 100/100`</p>
+  ## <p align=right>`Score: 95.74/100`</p>
