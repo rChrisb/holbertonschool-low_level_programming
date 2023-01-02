@@ -129,18 +129,23 @@ Found 999 at index: -1
 -------------------------------------------------------
 ### <p align=center>`2. Big O #0`</p>
 What is the time complexity (worst case) of a linear search in an array of size n?
+
 -------------------------------------------------------
 ### <p align=center>`3. Big O #1`</p>
 What is the space complexity (worst case) of an iterative linear search algorithm in an array of size n?
+
 -------------------------------------------------------
 ### <p align=center>`4. Big O #2`</p>
 What is the time complexity (worst case) of a binary search in an array of size n?
+
 -------------------------------------------------------
 ### <p align=center>`5. Big O #3`</p>
 What is the space complexity (worst case) of a binary search in an array of size n?
+
 -------------------------------------------------------
 ### <p align=center>`6. Big O #4`</p>
 What is the space complexity of this function / algorithm?
+
 -------------------------------------------------------
 
 ## <p align=right>`Score: 100/100`</p>
