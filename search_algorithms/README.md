@@ -19,6 +19,6 @@ Be able to explain:
 ### <p align=center>`3. Big O #1`</p>
 ### <p align=center>`4. Big O #2`</p>
 ### <p align=center>`5. Big O #3`</p>
-### <p align=center>``</p>
+### <p align=center>`6. Big O #4`</p>
 
 ## <p align=right>`Score: 100/100`</p>
