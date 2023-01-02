@@ -1,6 +1,6 @@
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Preprocessor-In-C.png)
 
-# <p align=center>`C argc, argv`</p>
+# <p align=center>`C - Preprocessor`</p>
 ## <p align=center> `Project's obejectives` </p>
 Be able to explain:
 - What are macros and how to use them
