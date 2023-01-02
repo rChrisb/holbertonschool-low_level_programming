@@ -13,8 +13,8 @@ Be able to explain:
 - What is the best search algorithm to use depending on your needs
 
 ## <p align=center>`Tasks`</p>
-### <p align=center>``</p>
-### <p align=center>``</p>
+### <p align=center>`0. Linear search`</p>
+### <p align=center>`1. Binary search`</p>
 ### <p align=center>``</p>
 ### <p align=center>``</p>
 ### <p align=center>``</p>
