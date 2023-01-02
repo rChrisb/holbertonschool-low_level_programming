@@ -42,8 +42,8 @@ int binary_search(int *array, size_t size, int value)
 	}
 	else
 	{
-			print_array(array, start, end);
-			printf("Searching in array: %d\n", array[end]);
+		print_array(array, start, end);
+		printf("Searching in array: %d\n", array[end]);
 		return (-1);
 	}
 }
