@@ -15,7 +15,7 @@ Be able to explain:
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. Linear search`</p>
 ### <p align=center>`1. Binary search`</p>
-### <p align=center>``</p>
+### <p align=center>`2. Big O #0`</p>
 ### <p align=center>``</p>
 ### <p align=center>``</p>
 ### <p align=center>``</p>
