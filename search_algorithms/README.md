@@ -1,6 +1,6 @@
 
 
-<img width=55% src = "https://media.geeksforgeeks.org/wp-content/cdn-uploads/Linear-Search.png" />
+<img align=right width=60% src = "https://media.geeksforgeeks.org/wp-content/cdn-uploads/Linear-Search.png" />
 <img width=50% src ="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221121132716/BinarySearch.png" />
 
 # <p align=center> `C - Search Algorithms` </p>
