@@ -2,7 +2,9 @@
 
 ## <p align=center> This repository contains various projects made in Holberton School and introducing beginners to the C language.</p>
 
-### `C - projects`
+### <p align=center> `C - projects` </p>
+
+
 - hello_world
 - variables_if_else_while
 - functions_nested_loops
@@ -15,3 +17,4 @@
 - malloc_free
 - more_malloc_free
 - preprocessor
+</p>
