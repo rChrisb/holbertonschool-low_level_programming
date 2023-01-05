@@ -15,5 +15,5 @@ Be able to explain:
 # <p align=center >`Resources`</p>
 Read or watch:
 
-- [0x0a - malloc & free - quick overview.pdf]()
-- [Dynamic memory allocation in C - malloc calloc realloc free (stop at 6:50)]()
+- [0x0a - malloc & free - quick overview.pdf](https://intranet.hbtn.io/rltoken/jLHiF8lDWmdjL7HMjrsyKQ)
+- [Dynamic memory allocation in C - malloc calloc realloc free ](https://intranet.hbtn.io/rltoken/q_SFo9w6mIBGMJk_1nzbVQ)
