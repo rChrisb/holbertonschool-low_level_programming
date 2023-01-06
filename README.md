@@ -23,6 +23,6 @@
 - singly_linked_lists
 more_singly_linked_lists
 bit_manipulation
-
-
+file_io
+doubly_linked_lists
 </p>
