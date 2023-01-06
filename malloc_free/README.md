@@ -20,7 +20,11 @@ Read or watch:
 
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. Float like a butterfly, sting like a bee`</p>
+Write a function that creates an array of chars, and initializes it with a specific char.
 
+- Prototype: char *create_array(unsigned int size, char c);
+- Returns NULL if size = 0
+- Returns a pointer to the array, or NULL if it fails
 -------------------------------------------------
 ### <p align=center>`1. The woman who has no imagination has no wings`</p>
 
