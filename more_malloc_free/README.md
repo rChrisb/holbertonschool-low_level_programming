@@ -15,7 +15,7 @@ Read:
 - [Do I cast the result of malloc?](https://intranet.hbtn.io/rltoken/OxKPD8wrcqqWw-FfmoHM0g)
 
 ## <p align=center>`Tasks`</p>
-### <p align=center>``</p>
+### <p align=center>`0. Trust no one`</p>
 
 --------------------------------------------------------------------
 ### <p align=center>``</p>
