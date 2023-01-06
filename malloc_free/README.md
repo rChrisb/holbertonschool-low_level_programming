@@ -25,7 +25,7 @@ Read or watch:
 ### <p align=center>`1. The woman who has no imagination has no wings`</p>
 
 -------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`2. He who is not courageous enough to take risks will accomplish nothing in life`</p>
 
 -------------------------------------------------
 ### <p align=center>``</p>
