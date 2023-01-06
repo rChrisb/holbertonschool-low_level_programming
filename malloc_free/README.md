@@ -28,7 +28,7 @@ Read or watch:
 ### <p align=center>`2. He who is not courageous enough to take risks will accomplish nothing in life`</p>
 
 -------------------------------------------------
-### <p align=center>``</p>
+### <p align=center>`3. If you even dream of beating me you'd better wake up and apologize`</p>
 
 -------------------------------------------------
 ### <p align=center>``</p>
