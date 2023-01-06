@@ -12,7 +12,7 @@ Be able to explain:
 - Why and when use malloc
 - How to use valgrind to check for memory leak
 
-# <p align=center >`Resources`</p>
+## <p align=center >`Resources`</p>
 Read or watch:
 
 - [0x0a - malloc & free - quick overview.pdf](https://intranet.hbtn.io/rltoken/jLHiF8lDWmdjL7HMjrsyKQ)
