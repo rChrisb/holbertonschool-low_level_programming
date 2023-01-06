@@ -8,3 +8,7 @@
 Be able to explain:
 - How to use the exit function
 - What are the functions calloc and realloc from the standard library and how to use them
+
+## <p align=center >`Resources`</p>
+Read:
+- [Do I cast the result of malloc?](https://intranet.hbtn.io/rltoken/OxKPD8wrcqqWw-FfmoHM0g)
