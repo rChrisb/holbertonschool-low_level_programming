@@ -22,7 +22,7 @@
 - variadic_functions
 - singly_linked_lists
 more_singly_linked_lists
-
+bit_manipulation
 
 
 </p>
