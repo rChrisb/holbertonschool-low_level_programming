@@ -21,9 +21,9 @@
 - function_pointers
 - variadic_functions
 - singly_linked_lists
-more_singly_linked_lists
-bit_manipulation
-file_io
-doubly_linked_lists
-hash_tables
+- more_singly_linked_lists
+- bit_manipulation
+- file_io
+- doubly_linked_lists
+- hash_tables
 </p>
