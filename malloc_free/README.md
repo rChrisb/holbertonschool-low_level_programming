@@ -17,3 +17,23 @@ Read or watch:
 
 - [0x0a - malloc & free - quick overview.pdf](https://intranet.hbtn.io/rltoken/jLHiF8lDWmdjL7HMjrsyKQ)
 - [Dynamic memory allocation in C - malloc calloc realloc free ](https://intranet.hbtn.io/rltoken/q_SFo9w6mIBGMJk_1nzbVQ)
+
+## <p align=center>`Tasks`</p>
+### <p align=center>``</p>
+
+-------------------------------------------------
+### <p align=center>``</p>
+
+-------------------------------------------------
+### <p align=center>``</p>
+
+-------------------------------------------------
+### <p align=center>``</p>
+
+-------------------------------------------------
+### <p align=center>``</p>
+
+-------------------------------------------------
+
+
+## <p align=right>`Score: 100/100`</p>
