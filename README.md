@@ -17,8 +17,8 @@
 - malloc_free
 - more_malloc_free
 - preprocessor
-structures_typedef
-function_pointers
-variadic_functions
-singly_linked_lists
+- structures_typedef
+- function_pointers
+- variadic_functions
+- singly_linked_lists
 </p>
