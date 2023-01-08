@@ -27,7 +27,7 @@ Write a program that prints all arguments it receives.
 
 - All arguments should be printed, including the first one
 - Only print one argument per line, ending with a new line
-#### File: [](https://github.com/rChrisb/holbertonschool-low_level_programming/blob/main/argc_argv/2-args.c)
+#### File: [2-args.c](https://github.com/rChrisb/holbertonschool-low_level_programming/blob/main/argc_argv/2-args.c)
 -------------------------------------------------
 ### <p align=center>`3. Neither irony nor sarcasm is argument`</p>
 Write a program that multiplies two numbers.
