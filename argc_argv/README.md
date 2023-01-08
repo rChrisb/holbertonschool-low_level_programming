@@ -11,7 +11,7 @@ Be able to explain:
 Read or watch:
 
 - [Arguments to main](https://intranet.hbtn.io/rltoken/ro9HSskzyAhNpzdcVhdVWw)
-- [argc and argv]()
+- [argc and argv](https://intranet.hbtn.io/rltoken/zjdRHZTL-ImDCnGuMfHYfA)
 - [What does argc and argv mean?]()
 - [how to compile with unused variables]()
 
