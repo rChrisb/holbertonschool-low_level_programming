@@ -6,7 +6,7 @@
 
 
 - [hello_world](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/hello_world)
-- variables_if_else_while
+- [variables_if_else_while](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/variables_if_else_while)
 - functions_nested_loops
 - more_functions_nested_loops
 - makefiles
