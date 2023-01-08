@@ -20,7 +20,7 @@ Write a program that prints its name, followed by a new line.
 Write a program that prints the number of arguments passed into it.
 
 - Your program should print a number, followed by a new line
-#### File: [](https://github.com/rChrisb/holbertonschool-low_level_programming/blob/main/argc_argv/1-args.c)
+#### File: [1-args.c](https://github.com/rChrisb/holbertonschool-low_level_programming/blob/main/argc_argv/1-args.c)
 -------------------------------------------------
 ### <p align=center>`2. The best argument against democracy is a five-minute conversation with the average voter`</p>
 Write a program that prints all arguments it receives.
