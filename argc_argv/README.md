@@ -13,7 +13,7 @@ Read or watch:
 - [Arguments to main](https://intranet.hbtn.io/rltoken/ro9HSskzyAhNpzdcVhdVWw)
 - [argc and argv](https://intranet.hbtn.io/rltoken/zjdRHZTL-ImDCnGuMfHYfA)
 - [What does argc and argv mean?](https://intranet.hbtn.io/rltoken/RT0y1HPM-AChT_JQedpdaA)
-- [how to compile with unused variables]()
+- [how to compile with unused variables](https://intranet.hbtn.io/rltoken/GvQNF9qKoUuY1t0U1AsetA)
 
 ## <p align=center>`Tasks`</p>
 ### <p align=center>`0. It ain't what they call you, it's what you answer to`</p>
