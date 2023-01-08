@@ -12,7 +12,7 @@ Read or watch:
 
 - [Arguments to main](https://intranet.hbtn.io/rltoken/ro9HSskzyAhNpzdcVhdVWw)
 - [argc and argv](https://intranet.hbtn.io/rltoken/zjdRHZTL-ImDCnGuMfHYfA)
-- [What does argc and argv mean?]()
+- [What does argc and argv mean?](https://intranet.hbtn.io/rltoken/RT0y1HPM-AChT_JQedpdaA)
 - [how to compile with unused variables]()
 
 ## <p align=center>`Tasks`</p>
