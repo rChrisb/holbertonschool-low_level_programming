@@ -44,7 +44,7 @@ Write a program that adds positive numbers.
 - If no number is passed to the program, print 0, followed by a new line
 - If one of the number contains symbols that are not digits, print Error, followed by a new line, and return 1
 - You can assume that numbers and the addition of all the numbers can be stored in an int
-#### File: []()
+#### File: [](https://github.com/rChrisb/holbertonschool-low_level_programming/blob/main/argc_argv/4-add.c)
 -------------------------------------------------
 
 ## <p align=right>`Score: 100/100`</p>
