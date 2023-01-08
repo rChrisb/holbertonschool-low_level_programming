@@ -35,7 +35,7 @@ Write a program that multiplies two numbers.
 - Your program should print the result of the multiplication, followed by a new line
 - You can assume that the two numbers and result of the multiplication can be stored in an integer
 - If the program does not receive two arguments, your program should print Error, followed by a new line, and return 1
-#### File: [](https://github.com/rChrisb/holbertonschool-low_level_programming/blob/main/argc_argv/3-mul.c)
+#### File: [3-mul.c](https://github.com/rChrisb/holbertonschool-low_level_programming/blob/main/argc_argv/3-mul.c)
 -------------------------------------------------
 ### <p align=center>`4. To infinity and beyond`</p>
 Write a program that adds positive numbers.
