@@ -27,5 +27,5 @@
 - doubly_linked_lists
 - hash_tables
 - search_algorithms
-- binary_trees
+
 </p>
