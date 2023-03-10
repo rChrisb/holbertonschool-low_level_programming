@@ -9,7 +9,7 @@
 - [variables_if_else_while](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/variables_if_else_while)
 - [functions_nested_loops](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/functions_nested_loops)
 - [more_functions_nested_loops](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops)
-- makefiles
+- [makefiles](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/makefiles)
 - pointers_arrays_strings
 - recursion
 - static_libraries
