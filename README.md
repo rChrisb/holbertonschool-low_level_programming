@@ -11,7 +11,7 @@
 - [more_functions_nested_loops](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/more_functions_nested_loops)
 - [makefiles](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/makefiles)
 - [pointers_arrays_strings](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/pointers_arrays_strings)
-- recursion
+- [recursion](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/recursion)
 - static_libraries
 - argc_argv
 - malloc_free
