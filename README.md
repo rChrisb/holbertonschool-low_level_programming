@@ -12,7 +12,7 @@
 - [makefiles](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/makefiles)
 - [pointers_arrays_strings](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/pointers_arrays_strings)
 - [recursion](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/recursion)
-- static_libraries
+- [static_libraries](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/static_libraries)
 - argc_argv
 - malloc_free
 - more_malloc_free
