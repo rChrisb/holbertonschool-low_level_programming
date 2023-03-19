@@ -14,7 +14,7 @@
 - [recursion](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/recursion)
 - [static_libraries](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/static_libraries)
 - [argc_argv](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/argc_argv)
-- malloc_free
+- [malloc_free](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/malloc_free)
 - more_malloc_free
 - preprocessor
 - structures_typedef
