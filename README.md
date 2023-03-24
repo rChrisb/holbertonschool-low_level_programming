@@ -17,7 +17,7 @@
 - [malloc_free](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/malloc_free)
 - [more_malloc_free](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/more_malloc_free)
 - [preprocessor](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/preprocessor)
-- structures_typedef
+- [structures_typedef](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/structures_typedef)
 - function_pointers
 - variadic_functions
 - singly_linked_lists
