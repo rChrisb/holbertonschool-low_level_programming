@@ -23,7 +23,7 @@
 - [singly_linked_lists](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/singly_linked_lists)
 - [more_singly_linked_lists](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/more_singly_linked_lists)
 - [bit_manipulation](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/bit_manipulation)
-- file_io
+- [file_io](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/file_io)
 - doubly_linked_lists
 - hash_tables
 - search_algorithms
