@@ -26,6 +26,6 @@
 - [file_io](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/file_io)
 - [doubly_linked_lists](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/doubly_linked_lists)
 - [hash_tables](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/hash_tables)
-- search_algorithms
+- [search_algorithms](https://github.com/rChrisb/holbertonschool-low_level_programming/tree/main/search_algorithms)
 
 </p>
